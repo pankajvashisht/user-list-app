@@ -1,0 +1,12 @@
+{
+    "extends": "./tsconfig.json",
+    "include": [
+        "src",
+        "tests",
+        "metro.config.js",
+        "react-native.config.js",
+        ".eslintrc.js",
+        "jest-setup.ts"
+    ],
+    "exclude": ["coverage", "node_modules", "**/*.spec.ts"]
+}

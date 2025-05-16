@@ -1,0 +1,13 @@
+{
+  "common": {
+    "admin": "Admin",
+    "manger": "Manger",
+    "error": "Failed to load users.",
+    "userType": "User Types",
+    "users": "Users",
+    "noUsersFound": "No User Found",
+    "searchByName": "Search by name",
+    "welcomeToHomeScreen": "Welcome to Zeller Assignment.",
+    "goToUserList": "Go to User Listing"
+  }
+}
